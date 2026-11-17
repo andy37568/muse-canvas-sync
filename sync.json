@@ -1,7 +1,7 @@
 {
   "format": "muse-canvas-sync",
   "version": 1,
-  "exportedAt": "2026-11-15T15:42:44.409Z",
+  "exportedAt": "2026-11-17T14:57:57.353Z",
   "source": "Muse 画布原型（云端，主数据源）",
   "note": "museCards 是完整的卡片数据（无损）；tldrawSnapshot.records 是给本地 tldraw 画布导入用的图形记录；mediaAssets 里嵌着《追珠子》视频文件的 base64 数据，本地导入时按 cardId 对应到那张视频卡（它的 geo 记录 meta 里有 mediaAssetCardId），即可直接生成可播放的视频卡。其他图片/视频的字节不在文件内，导入本地后以带说明的占位卡呈现，播放请回云端原型。",
   "museCards": [
